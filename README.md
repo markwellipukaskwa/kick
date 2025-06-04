@@ -1,2 +1,2 @@
-# mi.bitmex.com
-mi.bitmex.com
+# kick.com
+kick.com
